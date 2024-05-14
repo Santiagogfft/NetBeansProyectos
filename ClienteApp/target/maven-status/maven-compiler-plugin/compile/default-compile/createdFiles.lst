@@ -1,0 +1,5 @@
+es\medac\clientesapps\ClienteAppMain.class
+es\medac\clientesapp\modelo\Clientes.class
+es\medac\clientesapp\controller\Consultas.class
+es\medac\clientesapp\controller\ConexionMySQL.class
+es\medac\clientesapp\controller\ConsultaDMLClientes.class
